@@ -2,7 +2,7 @@
 
 **Crie um programa em Java que exiba Olá Mundo!**
 
-![Olá Mundo Em Java](/assets/images/olamundo.png)
+![Olá Mundo Em Java](olamundo.png)
 
 Autor: Erick Leite Freire
 Criado em: 15-09-2023
