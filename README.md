@@ -4,6 +4,6 @@
 
 ![Olá Mundo Em Java](olamundo.png)
 
-Autor: Erick Leite Freire
-Criado em: 15-09-2023
-Site: [Erick Freire](https://www.erickfreire.com.br)
+Autor: Erick Leite Freire<br>
+Criado em: 15-09-2023<br>
+Site: [Erick Freire](https://www.erickfreire.com.br)<br>
